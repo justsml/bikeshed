@@ -9,10 +9,8 @@
 <span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
 
 ---
-
-## Tip!
-For best viewing experience press **F** key to go fullscreen.
-
++++?gist=9ccdb2cb0ec80f289c8f1122720c9db0
+Example Gist
 ---
 
 ## Markdown Slides
